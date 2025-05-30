@@ -1,8 +1,15 @@
 # 📒 SHK Study Log
 
-[![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/your-repo-url)
 
 > **개인 공부 기록을 노션(Notion) 기반으로 빌드하여 웹사이트로 배포한 프로젝트입니다.**
+
+---
+
+## 🌐 배포 주소
+
+- **[shk-study-log.vercel.app](https://shk-study-log.vercel.app/)**
+
+---
 
 ## 📌 소개
 
